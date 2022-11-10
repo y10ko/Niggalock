@@ -18,7 +18,7 @@ local Settings = getgenv().Settings
 
 getgenv().SelectedPart = "LowerTorso"
 getgenv().Prediction = true
-getgenv().PredictionValue = 0.11621
+getgenv().PredictionValue = 0.12588
 
 
 local AnchorCount = 0
